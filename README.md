@@ -1,4 +1,4 @@
-# Palindrome
+# Palindrome using HTML,CSS and JS
 The Palindrome program checks to see if a word, number, phrase, or other sequence of characters which reads the same backward as forward, 
 
 It includes an HTML file with form, which takes the text as input and 'Check Palindrome' button to submit the input
